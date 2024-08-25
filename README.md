@@ -7,5 +7,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/gauravrodrigues/SQL_Coding_Challenge/tree/master/0177-nth-highest-salary) |
+| [0184-department-highest-salary](https://github.com/gauravrodrigues/SQL_Coding_Challenge/tree/master/0184-department-highest-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/gauravrodrigues/SQL_Coding_Challenge/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
